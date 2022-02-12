@@ -1,2 +1,1 @@
-# hackpolicywebsite
-Website for HackPolicy Foundation
+# Website for Hack+Policy
